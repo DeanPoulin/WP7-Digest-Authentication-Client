@@ -1,0 +1,16 @@
+build/
+deploy/
+archive/
+results/
+_site/
+*.suo
+*.user
+Source/**/bin
+Source/**/Bin
+obj
+_ReSharper*
+*.csproj.user
+*.resharper.user
+*.suo
+*.cache
+TestResult.xml
